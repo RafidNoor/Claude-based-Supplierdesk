@@ -1,0 +1,18 @@
+{
+  "reset_password:rafidnoor7@gmail.com": {
+    "otp": "700607",
+    "purpose": "reset_password",
+    "identifier": "rafidnoor7@gmail.com",
+    "createdAt": 1791902814320,
+    "expiresAt": 1791903414320,
+    "attempts": 0
+  },
+  "reset_password:admin@supplierdesk.com": {
+    "otp": "812609",
+    "purpose": "reset_password",
+    "identifier": "admin@supplierdesk.com",
+    "createdAt": 1791903261563,
+    "expiresAt": 1791903861563,
+    "attempts": 0
+  }
+}

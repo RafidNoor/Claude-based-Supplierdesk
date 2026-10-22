@@ -1,0 +1,23 @@
+{
+  "delay_seconds": 3,
+  "markup_percent": 12,
+  "fixed_add": 0,
+  "round_to": 10,
+  "cost_price_mode": {
+    "ryans": "special",
+    "startech": "regular"
+  },
+  "zenrows_api_key": "",
+  "daraz_app_key": "506208",
+  "daraz_secret": "QrJTmSXwevbCs9j2m8ZM3H8a9WrThbIv",
+  "daraz_access_token": "50000600a02NO316cc029e7iBuvvwZaYgTCkUhxvFcBBy7mRVcmhMlzIQqJQB3y",
+  "upstash_redis_rest_url": "",
+  "upstash_redis_rest_token": "",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 465,
+  "smtp_secure": true,
+  "smtp_user": "rafidnoor7@gmail.com",
+  "smtp_pass": "tmtp icxx ydtv halu",
+  "smtp_from": "Daraz SupplierDesk <notifications@gmail.com>",
+  "proxy_url": ""
+}

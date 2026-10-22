@@ -1,0 +1,33 @@
+{
+  "name": "daraz-tool",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx server.ts",
+    "build": "esbuild api/index.ts --bundle --platform=node --format=esm --packages=external --outfile=api/index.js",
+    "lint": "tsc --noEmit",
+    "start": "tsx server.ts"
+  },
+  "dependencies": {
+    "@upstash/redis": "^1.39.0",
+    "axios": "^1.7.9",
+    "bcryptjs": "^3.0.3",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "nodemailer": "^10.1.0",
+    "sharp": "^0.35.5",
+    "tsx": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^3.0.0",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.13.4",
+    "@types/nodemailer": "^8.0.2",
+    "@types/sharp": "^0.32.0",
+    "esbuild": "^0.28.2",
+    "typescript": "^5.7.3"
+  }
+}

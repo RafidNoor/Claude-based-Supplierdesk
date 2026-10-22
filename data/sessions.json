@@ -1,0 +1,30 @@
+{
+  "sdt_e57ffb5d919477909dbfdffcfb104040979729a2a2faee37810471acdbd15916": {
+    "userId": "usr_admin",
+    "email": "admin@supplierdesk.com",
+    "name": "Admin Seller",
+    "role": "admin",
+    "createdAt": "2026-10-12T12:37:31.692Z"
+  },
+  "sdt_562f3e4240c849f2c203b941733baecb2448b8bd03c58fb42c289caafc6f8f68": {
+    "userId": "usr_4dce5bf7f17d1b88",
+    "email": "seller_1791987778859@example.com",
+    "name": "Test Seller",
+    "role": "seller",
+    "createdAt": "2026-10-14T14:22:59.044Z"
+  },
+  "sdt_b94dc747940069bc3c48a567cf5b04d5ff04610d3b38e2b5c312dbb9aad6d8cb": {
+    "userId": "usr_admin",
+    "email": "admin@supplierdesk.com",
+    "name": "Admin Seller",
+    "role": "admin",
+    "createdAt": "2026-10-12T12:37:31.692Z"
+  },
+  "sdt_41da6876db9fcce9f6484ed2cafc12fe3609f2b167ed696be2b2f45710163101": {
+    "userId": "usr_admin",
+    "email": "admin@supplierdesk.com",
+    "name": "Admin Seller",
+    "role": "admin",
+    "createdAt": "2026-10-12T12:37:31.692Z"
+  }
+}

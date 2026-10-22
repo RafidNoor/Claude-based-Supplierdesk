@@ -1,0 +1,26 @@
+{
+  "admin@supplierdesk.com": {
+    "id": "usr_admin",
+    "email": "admin@supplierdesk.com",
+    "name": "Admin Seller",
+    "passwordHash": "$2b$10$nPNvNw9QJXAUvfc4OAWuK.0zrvTULP7NObKXjifTMY6PQC/X/AKoq",
+    "role": "admin",
+    "createdAt": "2026-10-12T12:37:31.692Z"
+  },
+  "rafid@example.com": {
+    "id": "usr_f7777b0e49d6cfda",
+    "email": "rafid@example.com",
+    "passwordHash": "$2b$10$2rlyxzuAbgQ2L92FAEJtMu3B5MLhpSQQ6GFgQsEcLYdDilMFZjF4a",
+    "name": "Rafid",
+    "role": "seller",
+    "createdAt": "2026-10-12T12:37:43.400Z"
+  },
+  "seller_1791987778859@example.com": {
+    "id": "usr_4dce5bf7f17d1b88",
+    "email": "seller_1791987778859@example.com",
+    "passwordHash": "$2b$10$59qAMeXakX.rCZkZQPLwPu/HizhKjHM0b6mSGQHd/f3NcjRDe5TAW",
+    "name": "Test Seller",
+    "role": "seller",
+    "createdAt": "2026-10-14T14:22:59.044Z"
+  }
+}
